@@ -7,7 +7,7 @@ dependencies:
 - ipywidgets
 - jupyterlab>=3.1
 - voila>=0.2.11
-- pyspark
+- pyspark==3.3.2
 - kafka==2.0.2
 - numpy==1.24.2
 - sparkdl==0.2.2
