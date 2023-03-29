@@ -1,0 +1,18 @@
+name: voila-NV-energy-project
+channels:
+- conda-forge
+dependencies:
+- matplotlib==3.7.0
+- pandas
+- ipywidgets
+- jupyterlab>=3.1
+- voila>=0.2.11
+- pyspark
+- kafka==2.0.2
+- numpy==1.24.2
+- sparkdl==0.2.2
+- findspark
+- tensorflow
+- tensorframes==0.2.9
+- keras
+- nbconvert==0.7.2
