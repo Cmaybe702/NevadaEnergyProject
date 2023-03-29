@@ -1,0 +1,24 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.5"
+  ],
+  "features": "",
+  "fn": "findspark-2.0.1-pyhd8ed1ab_0.tar.bz2",
+  "license": "BSD-3-clause",
+  "license_family": "BSD",
+  "md5": "d7cb221f44fd7494399bcd71ad801728",
+  "name": "findspark",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "6b391192832c1ba75a35f2c43c49d8a3d4fda9cd5d86936cb593172b6b510f78",
+  "size": 8392,
+  "subdir": "noarch",
+  "timestamp": 1644599829898,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/findspark-2.0.1-pyhd8ed1ab_0.tar.bz2",
+  "version": "2.0.1"
+}

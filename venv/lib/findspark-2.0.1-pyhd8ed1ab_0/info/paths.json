@@ -1,0 +1,59 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/findspark-2.0.1.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/findspark-2.0.1.dist-info/LICENSE.md",
+      "path_type": "hardlink",
+      "sha256": "95c076c0d3a2f4254b6bd3fac245018939e79240a240ac14785660ed19c5c611",
+      "size_in_bytes": 1473
+    },
+    {
+      "_path": "site-packages/findspark-2.0.1.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "c215db715b0620cb919d6fd23b09476e72e6bdcf336be629d9ea19ea6ba26ff3",
+      "size_in_bytes": 352
+    },
+    {
+      "_path": "site-packages/findspark-2.0.1.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "aaa983eddc72db6f9d774e9ca8b0698f1454afc1d7db2dddaa34ba8230e51abf",
+      "size_in_bytes": 793
+    },
+    {
+      "_path": "site-packages/findspark-2.0.1.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/findspark-2.0.1.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+      "size_in_bytes": 110
+    },
+    {
+      "_path": "site-packages/findspark-2.0.1.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "b049e00836e6a02767832293f553a592775bc31d7dbcd630368f993704cdc76c",
+      "size_in_bytes": 105
+    },
+    {
+      "_path": "site-packages/findspark-2.0.1.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "f03f68cb0ac75344be05c783fd2db70e792bd5db35ee2673bd48b40e54310a80",
+      "size_in_bytes": 10
+    },
+    {
+      "_path": "site-packages/findspark.py",
+      "path_type": "hardlink",
+      "sha256": "f0c36af38381f96dc782dc926673c0bc8616c6f8bc862a0296327e009498a2b4",
+      "size_in_bytes": 6978
+    }
+  ],
+  "paths_version": 1
+}
