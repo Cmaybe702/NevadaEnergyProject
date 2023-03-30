@@ -1,5 +1,0 @@
-config:
-  BinderHub:
-    use_registry: true
-    image_prefix: courtmaybe702/<binder-dev-
-    hub_url: http://127.0.0.1

@@ -17,6 +17,7 @@ def find():
     Will first check the SPARK_HOME env variable, and otherwise
     search common installation locations, e.g. from homebrew
     """
+    SPARK_HOME = 'venv/lib/python3.9/site-package/pyspark'
     spark_home = os.environ.get("SPARK_HOME", None)
 
     if not spark_home:
