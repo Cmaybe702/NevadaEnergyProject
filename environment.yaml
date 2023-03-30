@@ -9,7 +9,6 @@ dependencies:
 - kafka-python==2.0.2
 - numpy==1.24.2
 - sparkdl==0.2.2
-- findspark
 - keras==2.11.0
 - nbconvert==0.7.2
 - ipympl==0.9.3
